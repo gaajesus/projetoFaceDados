@@ -1,0 +1,10 @@
+C:\Users\ra1857060\Desktop\Dadinho CTI\Dadinho CTI\bin\Debug\Dadinho CTI.exe.config
+C:\Users\ra1857060\Desktop\Dadinho CTI\Dadinho CTI\bin\Debug\Dadinho CTI.exe
+C:\Users\ra1857060\Desktop\Dadinho CTI\Dadinho CTI\bin\Debug\Dadinho CTI.pdb
+C:\Users\ra1857060\Desktop\Dadinho CTI\Dadinho CTI\obj\Debug\Dadinho CTI.csprojAssemblyReference.cache
+C:\Users\ra1857060\Desktop\Dadinho CTI\Dadinho CTI\obj\Debug\Dadinho_CTI.Properties.Resources.resources
+C:\Users\ra1857060\Desktop\Dadinho CTI\Dadinho CTI\obj\Debug\Dadinho CTI.csproj.GenerateResource.cache
+C:\Users\ra1857060\Desktop\Dadinho CTI\Dadinho CTI\obj\Debug\Dadinho CTI.csproj.CoreCompileInputs.cache
+C:\Users\ra1857060\Desktop\Dadinho CTI\Dadinho CTI\obj\Debug\Dadinho CTI.exe
+C:\Users\ra1857060\Desktop\Dadinho CTI\Dadinho CTI\obj\Debug\Dadinho CTI.pdb
+C:\Users\ra1857060\Desktop\Dadinho CTI\Dadinho CTI\obj\Debug\Dadinho_CTI.dado.resources
